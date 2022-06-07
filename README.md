@@ -1,6 +1,6 @@
 ## Hi, I’m @ElNotaCode
 - 🥘 I’m from Spain
-- 🌱 I’m currently learning Java Angular and MySQL
+- 🌱 I’m currently learning Angular and TypeScript!
 - 😎 How to reach me: ElNota#9944 on Discord
 - 🏀 I like play basketball
 - 🎳 Why ElNota? It’s from the Big Lebowski film (1998)
